@@ -1,3 +1,7 @@
+/*
+    Program that prints a line with the message “Hello and Bye!”.
+*/
+
 #include <iostream>
 using namespace std;
 

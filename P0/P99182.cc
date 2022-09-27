@@ -1,3 +1,6 @@
+/*
+    Program that prints the average of two integers.
+*/
 #include <iostream>
 using namespace std;
 
