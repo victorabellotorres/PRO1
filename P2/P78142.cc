@@ -1,3 +1,7 @@
+/*
+	Program that reads a sequence of numbers and prints their average.
+*/
+
 #include <iostream>
 using namespace std;
 

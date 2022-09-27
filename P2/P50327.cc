@@ -1,3 +1,7 @@
+/*
+    Program that reads a number and prints it reversed.
+*/
+
 #include <iostream>
 using namespace std;
 

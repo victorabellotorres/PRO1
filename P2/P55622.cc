@@ -1,3 +1,7 @@
+/*
+    Program that reads a number and prints its number of digits.
+*/
+
 #include <iostream>
 using namespace std;
 

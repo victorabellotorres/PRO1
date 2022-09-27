@@ -1,3 +1,8 @@
+/*
+	Program that reads a natural number n, and prints
+	the result of the following sum: 1^2 + 2^2 + … + (n−1)^2 + n^2 
+*/
+
 #include <iostream>
 using namespace std;
 

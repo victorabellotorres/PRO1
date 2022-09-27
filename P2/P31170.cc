@@ -1,3 +1,8 @@
+/*
+	Program that reads a number n and prints
+	the “multiplication table” of n.
+*/
+
 #include <iostream>
 using namespace std;
 

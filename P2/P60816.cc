@@ -1,3 +1,9 @@
+/*
+    Program that reads a number and prints its hexadecimal representation
+    reversed. Follow the convention to use the letters from ‘A’ to ‘F’ to
+    represent the values from 10 to 15.
+*/
+
 #include <iostream>
 using namespace std;
 

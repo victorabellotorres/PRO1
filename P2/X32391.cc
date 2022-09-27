@@ -1,3 +1,12 @@
+/*
+    You have saved n euros. Additionally, every Monday of the
+    next t weeks, you will be given a weekly allowance of
+    a1, a2, ..., at euros, respectively. Every week, you have a
+    fixed amount of expenses that sums up to d euros.
+
+    Program that counts how many weeks you end up with a strictly positive balance.
+*/
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,10 @@
+/*
+	Programa que donat un natural n≥ 2 seguit de n nombres reals x1, x2,…, xn,
+	calculi la variança dels nombres fent servir la fórmula:
+	((1 / (n - 1)) * (i=1)∑xi²) - ((1 / (n * (n - 1))) * ((i=1)∑xi)²)
+	(Els sumatoris arriben fins a i = n)
+*/
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,10 @@
+/*
+	Given an initial capital c in euros, an annual interest
+	rate i (expressed in %), a time t in years and an indication
+	whether the interest is simple or compound, determine the
+	amount of euros the initial capital is transformed into.
+*/
+
 #include <iostream>
 using namespace std;
 

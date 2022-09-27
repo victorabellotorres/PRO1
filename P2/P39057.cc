@@ -1,3 +1,8 @@
+/*
+    Program that reads several descriptions of rectangles and circles,
+    and for each one prints its corresponding area.
+*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;

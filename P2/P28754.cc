@@ -1,3 +1,8 @@
+/*
+    Program that reads a number and prints its binary
+    representation reversed.
+*/
+
 #include <iostream>
 using namespace std;
 

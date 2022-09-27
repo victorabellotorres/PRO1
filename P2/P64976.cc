@@ -1,3 +1,8 @@
+/*
+	Program that reads a natural number n and prints the n
+	first lines of its multiplication table.
+*/
+
 #include <iostream>
 using namespace std;
 

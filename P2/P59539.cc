@@ -1,3 +1,8 @@
+/*
+	Program that reads a number n and prints the n-th harmonic number, 
+	defined as Hn = 1/1 + 1/2 + ⋯ + 1/n.
+*/
+
 #include <iostream>
 using namespace std;
 

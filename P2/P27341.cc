@@ -1,3 +1,8 @@
+/*
+	Programa que, per a cada parell d’enters a i b donats, calculi
+	i escrigui la suma de tots els cubs entre a i b.
+*/
+
 #include <iostream>
 using namespace std;
  
