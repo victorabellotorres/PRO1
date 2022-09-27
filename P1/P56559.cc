@@ -1,3 +1,7 @@
+/*
+    Program that, given two intervals, tells if one is inside the other.
+*/
+
 #include <iostream>
 using namespace std;
 

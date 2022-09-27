@@ -1,3 +1,6 @@
+/*
+    Program that reads two numbers and prints their minimum.
+*/
 #include <iostream>
 using namespace std;
 

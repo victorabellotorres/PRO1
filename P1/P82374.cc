@@ -1,3 +1,10 @@
+/*
+    Program that, given five integers x,a,b,c,d,
+    determines if x∈[a,b]∪[c,d].
+
+
+*/
+
 #include <iostream>
 using namespace std;
 

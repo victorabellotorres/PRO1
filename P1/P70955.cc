@@ -1,3 +1,8 @@
+/*
+    Program that converts to seconds a given amount
+    of years, days, hours, minutes and seconds.
+*/
+
 #include <iostream>
 using namespace std;
 

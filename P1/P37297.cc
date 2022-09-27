@@ -1,3 +1,8 @@
+/*
+    Program that reads a natural number and prints
+    the sum of their three last digits.
+*/
+
 #include <iostream>
 using namespace std;
 

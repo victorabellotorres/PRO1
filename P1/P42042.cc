@@ -1,3 +1,9 @@
+/*
+    Program that reads a letter, and that tells if it is an uppercase letter or a lowercase letter,
+    and that also tells if it is a vowel or a consonant. 
+    Here, assume that the vowels are ‘a’, ‘e’, ‘i’, ‘o’ and ‘u’, and their corresponding uppercase letters.
+*/
+
 #include <iostream>
 using namespace std;
 

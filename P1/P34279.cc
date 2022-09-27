@@ -1,3 +1,8 @@
+/*
+    Program that adds one second to a clock time,
+    given its hours, minutes and seconds.
+*/
+
 #include <iostream>
 using namespace std;
 

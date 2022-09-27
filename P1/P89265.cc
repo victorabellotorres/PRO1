@@ -1,3 +1,9 @@
+/*
+    program that, given two intervals, tells if one is
+    inside the other, and computes the interval corresponding
+    to their intersection, or tells that it is empty.
+*/
+
 #include <iostream>
 using namespace std;
 

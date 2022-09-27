@@ -1,3 +1,7 @@
+/*
+    Program that reads two words and tells their lexicographic order.
+*/
+
 #include <iostream>
 using namespace std;
 

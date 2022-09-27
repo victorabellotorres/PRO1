@@ -1,3 +1,8 @@
+/*
+    Program that reads a letter and prints it in lowercase if it was uppercase,
+    or prints it in uppercase if it was lowercase.
+*/
+
 #include <iostream>
 using namespace std;
 

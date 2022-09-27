@@ -1,3 +1,8 @@
+/*
+    Program that, given a number of seconds n, 
+    prints the number of hours, minutes and seconds represented by n.
+*/
+
 #include <iostream>
 using namespace std;
 

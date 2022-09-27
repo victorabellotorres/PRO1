@@ -1,3 +1,8 @@
+/*
+    Program that, given two intervals, computes the interval corresponding to
+    their intersection, or tells that it is empty.
+*/
+
 #include <iostream>
 using namespace std;
 

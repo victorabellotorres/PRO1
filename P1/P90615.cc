@@ -1,3 +1,7 @@
+/*
+    Program that reads three numbers and prints their maximum.
+*/
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,8 @@
+/*
+    El agua (A) vence a la piedra (P) que a su vez vence al viento (V)
+    que vence al agua. Di quien gana el enfrentamiento, o si se produce un empate.
+*/
+
 #include <iostream>
 using namespace std;
 // A > P > V > A

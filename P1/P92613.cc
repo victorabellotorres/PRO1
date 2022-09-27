@@ -1,3 +1,8 @@
+/*
+    Program that reads a real number x≥0 and prints ⌊ x ⌋ (the floor of x),
+    ⌈ x ⌉ (the ceiling of x), and the rounding of x.
+*/
+
 #include <iostream>
 using namespace std;
 
