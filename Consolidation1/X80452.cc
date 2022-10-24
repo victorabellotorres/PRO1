@@ -12,12 +12,13 @@ using namespace std;
 int main() {
     int cents;
     while(cin >> cents) {
-        int p = cents/7 + 1;//stamp of 7 cents
-        int q = 0;// stamps of 4 cents
-        while((7*p + 4*q) != cents) {
+        int p = cents/7;
+        cents %= 7;
+        while (cents%4 != 0) {
             --p;
-            q = (cents - 7*p)/4;
+            cents += 7;
         }
-        cout << p << ' ' << q << endl;
+        
+        cout << p << " " << cents/4 << endl;
     }
 }
